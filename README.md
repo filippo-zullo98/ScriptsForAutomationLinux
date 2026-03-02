@@ -1,2 +1,2 @@
-# Playstation2IsoGenerator
-Script Bash for creation of a Playstation2 ISO
+# ScriptsForAtuomation
+It contains a lot of scripts for linux tasks
